@@ -65,3 +65,13 @@ python scripts/fig_5b.py
 | `fig_4i.py` | `fig_4i.csv`                                                                                                                | `fig_4i.png`         |
 | `fig_5a.py` | `fig_5a_active_search.csv`, `fig_5a_seq_learning_agent.csv`, `fig_5a_bo.csv`, `fig_5a_llm.csv`, `fig_5a_random.csv`         | `fig_5a.png`         |
 | `fig_5b.py` | `fig_5b_active_search.csv`, `fig_5b_random.csv`, `fig_5b_bo.csv`, `fig_5b_seq_learning_agent.csv`, `fig_5b_llm_with_feedback.csv`, `fig_5b_llm_no_feedback.csv` | `fig_5b.png`         |
+
+## License
+
+The code in this repository, including everything under `scripts/`, is released
+under the MIT License. See [LICENSE](LICENSE).
+
+The data files under `data/` are released under the Creative Commons Attribution
+4.0 International License (CC BY 4.0). See [data/LICENSE](data/LICENSE).
+
+If you use this data or code, please cite the accompanying manuscript.
