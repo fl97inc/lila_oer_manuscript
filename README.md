@@ -4,7 +4,7 @@ This repository contains data and code to reproduce the figures in the accompany
 
 **Citation:**
 
-> Jenewein, K. J., Habib Zadeh, F., Wang, X., Malkomes, G., Zhang, H., Page, N., Bang, J. J., Santiago, P. J., Contreras, K. V., Li, K. K., Perna, A., Britton, L. M., Kilic, F., Cruse, K. J., Taheri, A., Mallayya, K., Quinn, H., Durr, R. A., Beaucage, P. A., Gregoire, J. M., & Gómez-Bombarelli, R. (2026). *AI-guided high-throughput discovery of iridium- and ruthenium-free palladium-oxide catalysts for durable acidic oxygen evolution*. arXiv:2609.30133. <https://arxiv.org/abs/2609.30133>
+> Jenewein, K. J., Habib Zadeh, F., Wang, X., Malkomes, G., Zhang, H., Page, N., Bang, J. J., Santiago, P. J., Contreras, K. V., Li, K. K., Perna, A., Britton, L. M., Kilic, F., Cruse, K. J., Taheri, A., Mallayya, K., Quinn, H., Durr, R. A., Beaucage, P. A., Gregoire, J. M., & Gómez-Bombarelli, R. (2026). *AI-guided high-throughput discovery of iridium- and ruthenium-free palladium-oxide catalysts for durable acidic oxygen evolution*. [arXiv:2609.30133](https://arxiv.org/abs/2609.30133).
 
 ## Setup
 
